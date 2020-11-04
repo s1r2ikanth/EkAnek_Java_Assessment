@@ -1,4 +1,3 @@
-package com.company;
 import java.util.*;
 public class BinarynumberNth {
     public static void main(String[] ags) {
